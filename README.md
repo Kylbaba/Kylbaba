@@ -10,7 +10,7 @@
 <div align="center">I'm Tetiana a Full-Stack developer 💻</div>
 
 <div align="center">
-  👩‍💻 I’m currently working on projects on the GoIT course
+  👩‍💻 I’m working on projects on the GoIT course nowadays
 </div>
 
 <div align="center">🌱 I’m currently learning React.js and TypeScript</div>
