@@ -17,19 +17,29 @@
 <table><tr><td valign="top" width="33%">
 
 
+### Languages :
 
-### Languages:  
-- English - Intermediate  
-  
-
-- Ukrainian - Fluent
-  
-  
-
-- Russian - Native  
-
-
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
  
+
+  <tr>
+    
+       English - Intermediate
+        
+  </tr>
+    <tr>
+    
+       Ukrainian - Fluent
+        
+  </tr>
+  <tr>
+    
+        Russian  - Native
+        
+  </tr>
+</table>
+</div>
 
 <br/>  
 
