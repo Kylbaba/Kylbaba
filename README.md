@@ -26,9 +26,11 @@
     <tr>
       English - Intermediate
     </tr>
+    <br />
     <tr>
       Ukrainian - Fluent
     </tr>
+    <br />
     <tr>
       Russian - Native
     </tr>
@@ -48,21 +50,4 @@
 
 <br/>  
 
-  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
