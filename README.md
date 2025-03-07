@@ -36,9 +36,7 @@
     </tr>
   </table>
 </div>
-
 <br />
-
 <div align="center">
   <a href="https://linkedin.com/in/petrenkotetiana" target="_blank">
     <img
@@ -46,8 +44,4 @@
     alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
-
-
 <br/>  
-
-
